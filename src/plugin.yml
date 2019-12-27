@@ -1,0 +1,12 @@
+## YAML Template.
+---
+name: Machado_de_Assis
+main: main.java.io.github.thundersoftware.machadodeassis.MachadoDeAssis
+version: 0.0.2-A
+description: Sistema de skills para o servidor
+load: STARTUP
+author: Selrog
+website: http://thundersoftware.github.io/Machado_de_assis/
+database: false
+prefix: MDA
+api-version: 1.13
